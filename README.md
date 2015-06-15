@@ -37,8 +37,9 @@ Current options:
 
 ## Examples
 
-lazy.sh --default -s my.com -s www.other.net -s root@123.56.44.77 --target /store/logs --rotate always
-lazy.sh --log syslog --log auth -s my.com -s www.other.net -s root@123.56.44.77 --target /store/logs --rotate minutely
+    lazy.sh --default -s my.com -s www.other.net -s root@123.56.44.77 --target /store/logs --rotate always
+
+    lazy.sh --log syslog --log auth -s my.com -s www.other.net -s root@123.56.44.77 --target /store/logs --rotate minutely
 
 
 ## License
