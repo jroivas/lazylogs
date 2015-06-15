@@ -44,4 +44,4 @@ Current options:
 
 ## License
 
-MIT, see COPYING
+MIT, see LICENSE

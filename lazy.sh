@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Copyright (c)2015 Jouni Roivas <jroivas@iki.fi>
-# MIT license, see COPYING
+# MIT license, see LICENSE
 
 TEMP=$(getopt -o hl:s:r:t:d --long help,log:,server:,rotate:,target:,default -n "$0" -- "$@")
 eval set -- "$TEMP"
